@@ -1,0 +1,59 @@
+{
+  "items": [
+    
+    {
+      "id": "001",
+      "name": "Boiled Egg",
+      "image": "/images/Ellipse 1.png",
+      "type": "Breakfast",
+      "price": "$10",
+      "description":
+        "Boiled eggs are a great source of protein, healthy fats, vitamins (like B12 and D), and minerals (like iron and selenium)."
+    },
+    {
+      "id": "002",
+      "name": "Grilled Chicken",
+      "image": "/images/Ellipse 2.png",
+      "type": "Lunch",
+      "price": "$30",
+      "description":
+        "Both healthy and satisfying, grilled chicken is a go-to choice for fitness enthusiasts and food lovers alike."
+    },
+    {
+      "id": "003",
+      "name": "Cake",
+      "image": "/images/Ellipse 3.png",
+      "type": "Dinner",
+      "price": "$5",
+      "description":
+        "Soft, moist, and often indulgent, cake is more than just a dessert—it's a mood-lifter and a party essential! 🎂"
+    },
+    {
+      "id": "004",
+      "name": "Burger",
+      "image": "/images/Ellipse 4.png",
+      "type": "Breakfast",
+      "price": "$10",
+      "description":
+        "A good burger is all about that perfect bite—juicy, flavorful, and downright delicious! 🍔"
+    },
+    {
+      "id": "005",
+      "name": "Pancake",
+      "image": "/images/Ellipse 5.png",
+      "type": "Lunch",
+      "price": "$10",
+      "description":
+        "Pancakes are a breakfast favorite in many countries and can also be enjoyed as a snack or dessert."
+    },
+    {
+      "id": "006",
+      "name": "Ramen",
+      "image": "/images/Ellipse 6.png",
+      "type": "Dinner",
+      "price": "$10",
+      "description":
+        "Ramen is a beloved Japanese noodle soup dish known for its rich, flavorful broth and chewy wheat noodles"
+    }
+  ]
+}
